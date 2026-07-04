@@ -1,5 +1,5 @@
 # operating-system
-# IDLookup Operating System
+# Identity Operating System
 
 > *The operating system for building the world's most trusted Identity Intelligence Platform.*
 
